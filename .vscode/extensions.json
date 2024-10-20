@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "charliermarsh.ruff",
+    "esbenp.prettier-vscode",
+    "hashicorp.terraform",
+    "ms-python.black-formatter",
+    "redhat.vscode-yaml",
+    "tamasfe.even-better-toml"
+  ]
+}
